@@ -29,7 +29,7 @@
  
   ![Snake animation](https://github.com/brenaki/brenaki/blob/output/github-contribution-grid-snake.svg)
  
-  ## Total de visitas no meu perfil :detective: <br>
+  ## Visitas no meu perfil<br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/brenaki/count.svg" />
  </p>
