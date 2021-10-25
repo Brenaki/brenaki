@@ -20,7 +20,6 @@
 </div>
   
   
-  ##
   
   ## Meus contados :iphone:
 <div>
