@@ -19,9 +19,9 @@
   <img align="right" alt="Vic-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/782912374797500417/901906862889386005/C3Xr.gif"
 </div>
   
+  <br><br>
   
-  
-  ## Meus contados :iphone:
+  ### Meus contados :iphone:
 <div>
   <a href="https://instagram.com/victor_angelolc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/brenaki" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
