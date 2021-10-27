@@ -18,11 +18,11 @@
 
 ### Ferramentas que eu uso 💼
   <div style="display: inline_block"><br>
-  <img align="center" alt="Vic-VSC" height="30" width="40" src="https://cdn.discordapp.com/attachments/796077210720272394/903048001549922335/VSC.png">
+  <a href="https://code.visualstudio.com/download" target="_blank"><img align="center" alt="Vic-VSC" height="50" width="50" src="https://cdn.discordapp.com/attachments/796077210720272394/903048001549922335/VSC.png"></a>
   &nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Vic-MySQL" height="30" width="40" src="https://cdn.discordapp.com/attachments/796077210720272394/903047997301063720/MY-SQL.png">
+  <a href="https://www.mysql.com/downloads/" target="_blank"><img align="center" alt="Vic-MySQL" height="50" width="50" src="https://cdn.discordapp.com/attachments/796077210720272394/903047997301063720/MY-SQL.png"></a>
   &nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Vic-NetBeans" height="30" width="40" src="https://cdn.discordapp.com/attachments/796077210720272394/903048000178389082/NETBEANS.png">
+  <a href="https://netbeans.apache.org/download/index.html" target="_blank"><img align="center" alt="Vic-NetBeans" height="50" width="50" src="https://cdn.discordapp.com/attachments/796077210720272394/903048000178389082/NETBEANS.png"></a>
   </div>
 
   ### Minhas skills 😄
