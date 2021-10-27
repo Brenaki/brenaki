@@ -14,7 +14,7 @@
 - 💬 Falo português (🇧🇷) e estou aprendendo english (🇺🇸)
 </div>
   
-  <br><br>
+  <br><br
 
 ## Ferramentas que eu uso 💼
   <div style="display: inline_block"><br>
@@ -24,6 +24,8 @@
   &nbsp;&nbsp;&nbsp;
   <a href="https://netbeans.apache.org/download/index.html" target="_blank"><img align="center" alt="Vic-NetBeans" height="50" width="50" src="https://cdn.discordapp.com/attachments/796077210720272394/903048000178389082/NETBEANS.png"></a>
   </div>
+
+  <br><br>
 
   ## Minhas skills 😄
 <div style="display: inline_block"><br>
