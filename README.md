@@ -6,12 +6,12 @@
   
 # Salve Salve, aqui é o Victor Cerqueira, Bem-vindo ao meu perfil  
   <div>
-- 🆕 Estudante do Ensino Médio
-- 💻 Cursando Desenvolvimento de Sistemas
+- 🆕 Estudante do Ensino Médio<br>
+- 💻 Cursando Desenvolvimento de Sistemas<br>
 - 🔭 Me considero como Full stack<br>
 - 📚 Estudando: JAVA, HTML, CSS, PHP, C# e C++<br>
 - ❤️ Liguagem que eu mais gosto no momento é JAVA<br>
-- 💬 Falo português (🇧🇷) e estou aprendendo english (🇺🇸)
+- 💬 Falo português (🇧🇷) e estou aprendendo english (🇺🇸)<br>
 </div>
   
   <br><br
