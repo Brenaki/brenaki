@@ -17,7 +17,7 @@
   <br><br
 
 ## Ferramentas que eu uso 💼
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block">
   <a href="https://code.visualstudio.com/download" target="_blank"><img align="center" alt="Vic-VSC" height="50" width="50" src="https://cdn.discordapp.com/attachments/796077210720272394/903048001549922335/VSC.png"></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.mysql.com/downloads/" target="_blank"><img align="center" alt="Vic-MySQL" height="50" width="50" src="https://cdn.discordapp.com/attachments/796077210720272394/903047997301063720/MY-SQL.png"></a>
@@ -28,7 +28,7 @@
   <br><br>
 
   ## Minhas skills 😄
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Vic-JAVA" height="50" width="70" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   &nbsp;
   <img align="center" alt="Vic-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
