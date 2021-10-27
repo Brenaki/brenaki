@@ -4,19 +4,31 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenaki&theme=tokyonight"/>
 </div>
   
-### Salve Salve, aqui é o Victor Cerqueira, Bem-vindo ao meu perfil  
+## Salve Salve, aqui é o Victor Cerqueira, Bem-vindo ao meu perfil  
   <div>
-- 🔭 Hoje trabalho como Full stack<br>
-- 📚 Estudando JAVA<br>
-- ❤️ Liguagem que eu mais gosto no momento é JAVA<br> 
+- 🆕 Estudante do Ensino Médio
+- 💻 Cursando Desenvolvimento de Sistemas
+- 🔭 Me considero como Full stack<br>
+- 📚 Estudando: JAVA, HTML, CSS, PHP, C# e C++<br>
+- ❤️ Liguagem que eu mais gosto no momento é JAVA<br>
+- 💬 Falo português (🇧🇷) e estou aprendendo english (🇺🇸)
 </div>
   
+  <br><br>
+
+### Ferramentas que eu uso 💼
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Vic-VSC" height="30" width="40" src="https://cdn.discordapp.com/attachments/796077210720272394/903048001549922335/VSC.png">
+  <img align="center" alt="Vic-MySQL" height="30" width="40" src="https://cdn.discordapp.com/attachments/796077210720272394/903047997301063720/MY-SQL.png">
+  <img align="center" alt="Vic-NetBeans" height="30" width="40" src="https://cdn.discordapp.com/attachments/796077210720272394/903048000178389082/NETBEANS.png">
+  </div>
+
   ### Minhas skills 😄
 <div style="display: inline_block"><br>
   <img align="center" alt="Vic-JAVA" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Vic-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vic-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vic-MySql" height="30" width="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="Vic-Sql" height="30" width="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="right" alt="Vic-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/782912374797500417/901906862889386005/C3Xr.gif"
 </div>
   
