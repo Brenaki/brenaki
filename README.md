@@ -19,9 +19,9 @@
 ### Ferramentas que eu uso 💼
   <div style="display: inline_block"><br>
   <img align="center" alt="Vic-VSC" height="30" width="40" src="https://cdn.discordapp.com/attachments/796077210720272394/903048001549922335/VSC.png">
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img align="center" alt="Vic-MySQL" height="30" width="40" src="https://cdn.discordapp.com/attachments/796077210720272394/903047997301063720/MY-SQL.png">
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img align="center" alt="Vic-NetBeans" height="30" width="40" src="https://cdn.discordapp.com/attachments/796077210720272394/903048000178389082/NETBEANS.png">
   </div>
 
