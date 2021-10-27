@@ -19,16 +19,22 @@
 ### Ferramentas que eu uso 💼
   <div style="display: inline_block"><br>
   <img align="center" alt="Vic-VSC" height="30" width="40" src="https://cdn.discordapp.com/attachments/796077210720272394/903048001549922335/VSC.png">
+  &nbsp;
   <img align="center" alt="Vic-MySQL" height="30" width="40" src="https://cdn.discordapp.com/attachments/796077210720272394/903047997301063720/MY-SQL.png">
+  &nbsp;
   <img align="center" alt="Vic-NetBeans" height="30" width="40" src="https://cdn.discordapp.com/attachments/796077210720272394/903048000178389082/NETBEANS.png">
   </div>
 
   ### Minhas skills 😄
 <div style="display: inline_block"><br>
   <img align="center" alt="Vic-JAVA" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  &nbsp;
   <img align="center" alt="Vic-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  &nbsp;
   <img align="center" alt="Vic-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  &nbsp;
   <img align="center" alt="Vic-Sql" height="30" width="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  &nbsp;
   <img align="right" alt="Vic-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/782912374797500417/901906862889386005/C3Xr.gif"
 </div>
   
