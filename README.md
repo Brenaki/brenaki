@@ -14,7 +14,7 @@
 - 💬 Falo português (🇧🇷) e estou aprendendo english (🇺🇸)<br>
 </div>
   
-  <br><br
+  <br><br>
 
 ## Ferramentas que eu uso 💼
   <div style="display: inline_block">
