@@ -4,7 +4,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenaki&theme=tokyonight"/>
 </div>
   
-# Salve Salve, aqui é o Victor Cerqueira, Bem-vindo ao meu perfil  
+# Salve, aqui é o Victor Cerqueira, Bem-vindo ao meu perfil  
   <div>
 - 🆕 Estudante do Ensino Médio<br>
 - 💻 Cursando Desenvolvimento de Sistemas<br>
