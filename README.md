@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/brenaki">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenaki&show_icons=true&bg_color=#404040&icon_color=#003c7d&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenaki&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenaki&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenaki&theme=github_dark"/>
 </div>
   
 # Salve, aqui é o Victor Cerqueira, Bem-vindo ao meu perfil  
