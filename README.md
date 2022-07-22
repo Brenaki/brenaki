@@ -37,8 +37,8 @@
   &nbsp;
   <img align="center" alt="Vic-Sql" height="50" width="70" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   &nbsp;
+  <img align="center" alt="Vic-Sql" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="right" alt="Vic-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/782912374797500417/901906862889386005/C3Xr.gif">
-  <img align="right" alt="Vic-pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
   
   <br><br>
