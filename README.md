@@ -8,8 +8,8 @@
   <div>
 - 🆕 Estudante do Ensino Médio<br>
 - 💻 Cursando Desenvolvimento de Sistemas<br>
-- 🔭 Eu sou Front-End<br>
-- 📚 Estudando: HTML, CSS, JAVASCRIPT e DESIGN<br>
+- 🔭 Eu sou Full Stack Developer<br>
+- 📚 Estudando: PYTHON, HTML, CSS e DESIGN<br>
 - ❤️ Liguagem que eu mais gosto no momento é JAVA<br>
 - 💬 Falo português (🇧🇷) e tenho nível intermediário em inglês (🇺🇸)<br>
 </div>
