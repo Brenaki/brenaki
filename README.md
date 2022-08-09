@@ -11,7 +11,7 @@
 - 🔭 Eu sou Front-End<br>
 - 📚 Estudando: HTML, CSS, JAVASCRIPT e DESIGN<br>
 - ❤️ Liguagem que eu mais gosto no momento é JAVA<br>
-- 💬 Falo português (🇧🇷) e tenho nível intermédio em inglês (🇺🇸)<br>
+- 💬 Falo português (🇧🇷) e tenho nível intermediário em inglês (🇺🇸)<br>
 </div>
   
   <br><br>
