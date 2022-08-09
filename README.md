@@ -29,7 +29,7 @@
 
   ## Minhas skills 😄
 <div style="display: inline_block">
-  <img align="center" alt="Vic-JAVA" height="50" width="70" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" alt="Vic-JAVA" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   &nbsp;
   <img align="center" alt="Vic-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   &nbsp;
