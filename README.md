@@ -7,7 +7,7 @@
 # Salve, aqui é o Victor Cerqueira, Bem-vindo ao meu perfil  
   <div>
 - 🆕 Estudante do Ensino Médio<br>
-- 💻 Cursando Desenvolvimento de Sistemas<br>
+- 💻 Técnico de Desenvolvimento de Sistemas<br>
 - 🔭 Eu sou Full Stack Developer<br>
 - 📚 Estudando: PYTHON, HTML, CSS e DESIGN<br>
 - ❤️ Liguagem que eu mais gosto no momento é JAVA<br>
