@@ -10,7 +10,7 @@
 - 💻 Técnico de Desenvolvimento de Sistemas<br>
 - 🔭 Eu sou Full Stack Developer<br>
 - 📚 Estudando: PYTHON, HTML, CSS e DESIGN<br>
-- ❤️ Liguagem que eu mais gosto no momento é Python<br>
+- ❤️ Liguagem que eu mais gosto no momento é Python🐍<br>
 - 💬 Falo português (🇧🇷) e tenho nível intermediário em inglês (🇺🇸)<br>
 </div>
   
