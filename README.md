@@ -12,7 +12,6 @@
 
 ## Ferramentas que eu uso 💼
   <div style="display: inline_block">
-  <a href="https://github.com/brenaki">
   <a href="https://code.visualstudio.com/download" target="_blank"><img align="center" alt="Vic-VSC" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.mysql.com/downloads/" target="_blank"><img align="center" alt="Vic-MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></a>
@@ -28,6 +27,7 @@
 
   ## Minhas skills 😄
 <div style="display: inline_block">
+  <a href="https://github.com/brenaki">
   <img align="center" alt="Vic-JAVA" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   &nbsp;
   <img align="center" alt="Vic-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
