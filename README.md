@@ -1,6 +1,5 @@
 # Salve, aqui é o Victor Cerqueira, Bem-vindo ao meu perfil  
   <div>
-  <a href="https://github.com/brenaki">
 - 🆕 Estudante do Ensino Médio<br>
 - 💻 Técnico de Desenvolvimento de Sistemas<br>
 - 🔭 Eu sou Full Stack Developer<br>
@@ -13,6 +12,7 @@
 
 ## Ferramentas que eu uso 💼
   <div style="display: inline_block">
+  <a href="https://github.com/brenaki">
   <a href="https://code.visualstudio.com/download" target="_blank"><img align="center" alt="Vic-VSC" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.mysql.com/downloads/" target="_blank"><img align="center" alt="Vic-MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></a>
