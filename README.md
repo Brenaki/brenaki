@@ -1,9 +1,6 @@
-<div align="center">
-  <a href="https://github.com/brenaki">
-</div>
-  
 # Salve, aqui é o Victor Cerqueira, Bem-vindo ao meu perfil  
   <div>
+  <a href="https://github.com/brenaki">
 - 🆕 Estudante do Ensino Médio<br>
 - 💻 Técnico de Desenvolvimento de Sistemas<br>
 - 🔭 Eu sou Full Stack Developer<br>
