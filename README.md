@@ -1,9 +1,11 @@
-# Salve, aqui é o Victor Cerqueira, Bem-vindo ao meu perfil
-
+# Oi eu sou o Victor Cerqueira, Bem-vindo ao meu perfil!
+### *Hello I'm Victor Cerqueira, Welcome my profile!*
+&nbsp;
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenaki&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenaki&layout=compact&langs_count=7&theme=react"/>
 </div>
+&nbsp;&nbsp;
   <div>
 - 🆕 Estudante do Ensino Médio<br>
 - 💻 Técnico de Desenvolvimento de Sistemas<br>
