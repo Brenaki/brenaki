@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://github.com/Brenaki"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brenaki&show_icons=true&theme=react&include_all_commits=true&count_private=true'/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenaki&theme=react'/>
+</div>
+
 # Salve, aqui é o Victor Cerqueira, Bem-vindo ao meu perfil  
   <div>
 - 🆕 Estudante do Ensino Médio<br>
