@@ -7,10 +7,10 @@
 </div>
 &nbsp;&nbsp;
   <div>
-- 🆕 Estudante do Ensino Médio<br>
-- 💻 Técnico de Desenvolvimento de Sistemas<br>
+- 🆕 Estudante de Engenharia da Computação<br>
+- 💻 Técnico de Desenvolvimento de Sistemas e futuro Engenheiro<br>
 - 🔭 Eu sou Full Stack Developer<br>
-- 📚 Estudando: PYTHON, HTML, CSS e DESIGN<br>
+- 📚 Estudando: PYTHON<br>
 - ❤️ Liguagem que eu mais gosto no momento é Python🐍<br>
 - 💬 Falo português (🇧🇷) e tenho nível intermediário em inglês (🇺🇸)<br>
 </div>
