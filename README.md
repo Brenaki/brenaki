@@ -2,8 +2,8 @@
 ### *Hello I'm Victor Cerqueira, Welcome my profile!*
 &nbsp;
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenaki&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenaki&layout=compact&langs_count=7&theme=react"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenaki&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenaki&layout=compact&langs_count=7&theme=react"/>
 </div>
 &nbsp;&nbsp;
   <div>
@@ -66,4 +66,14 @@
    <img alingn="center" src="https://profile-counter.glitch.me/brenaki/count.svg" />
  </p>
   
+</div>
+
+<div>
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=brenaki&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brenaki&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brenaki&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brenaki&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=brenaki&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
+
 </div>
