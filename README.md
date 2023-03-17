@@ -7,7 +7,7 @@
 </div>
 &nbsp;&nbsp;
   <div>
-- 🆕 Estudante de Engenharia da Computação<br>
+- 🆕 Estudante de Engenharia de Computação<br>
 - 💻 Técnico de Desenvolvimento de Sistemas e futuro Engenheiro<br>
 - 🔭 Eu sou Full Stack Developer<br>
 - 📚 Estudando: PYTHON<br>
