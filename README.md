@@ -10,7 +10,7 @@
 - 🆕 Estudante de Engenharia de Computação<br>
 - 💻 Técnico de Desenvolvimento de Sistemas e futuro Engenheiro<br>
 - 🔭 Eu sou Full Stack Developer<br>
-- 📚 Estudando: PYTHON<br>
+- 📚 Estudando: PYTHON e Linguagem C<br>
 - ❤️ Liguagem que eu mais gosto no momento é Python🐍<br>
 - 💬 Falo português (🇧🇷) e tenho nível intermediário em inglês (🇺🇸)<br>
 </div>
