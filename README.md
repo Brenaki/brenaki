@@ -9,10 +9,10 @@
  <div>
 <h2>👨‍💻 Engenheiro de Computação | Full Stack Developer 🚀</h2>
 
-<p>Estudante de Engenharia de Computação, focado em me tornar um futuro Engenheiro especializado em Desenvolvimento de Sistemas. Tenho experiência como Full Stack Developer e meu conhecimento inclui:</p>
+<p>Estudante de Engenharia de Computação, focado em me tornar um futuro Desenvolvedor Full Stack Developer e meu conhecimento inclui:</p>
 
 <ul>
-  <li>🐍 PYTHON (avançado)</li>
+  <li>🐍 PYTHON (intermediário)</li>
   <li>💻 Linguagem C</li>
   <li>🚀 TypeScript</li>
 </ul>
