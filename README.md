@@ -6,15 +6,23 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenaki&layout=compact&langs_count=7&theme=react"/>
 </div>
 &nbsp;&nbsp;
-  <div>
-- 🆕 Estudante de Engenharia de Computação<br>
-- 💻 Técnico de Desenvolvimento de Sistemas e futuro Engenheiro<br>
-- 🔭 Eu sou Full Stack Developer<br>
-- 📚 Estudando: PYTHON, Linguagem C e C#<br>
-- ❤️ Liguagem que eu mais gosto no momento é Python🐍<br>
-- 💬 Falo português (🇧🇷) e tenho nível intermediário em inglês (🇺🇸)<br>
-</div>
+ <div>
+<h2>👨‍💻 Engenheiro de Computação | Full Stack Developer 🚀</h2>
 
+<p>Estudante de Engenharia de Computação, focado em me tornar um futuro Engenheiro especializado em Desenvolvimento de Sistemas. Tenho experiência como Full Stack Developer e meu conhecimento inclui:</p>
+
+<ul>
+  <li>🐍 PYTHON (avançado)</li>
+  <li>💻 Linguagem C</li>
+  <li>🚀 TypeScript</li>
+</ul>
+
+<p>Fluente em português (🇧🇷) e nível intermediário em inglês (🇺🇸).</p>
+
+<p>Buscando constantemente novos desafios e oportunidades de aprendizado para contribuir em projetos inovadores. Pronto para fazer a diferença na sua equipe!</p>
+
+<p>Vamos conectar e conversar sobre colaborações? 👋</p>
+</div>
   <br><br>
 
   ### Skills:
