@@ -15,7 +15,7 @@
   <li>🐍 PYTHON (intermediário)</li>
   <li>💻 Linguagem C</li>
   <li>🚀 TypeScript</li>
-  <li>💎 Ruby</li>li
+  <li>💎 Ruby</li>
 </ul>
 
 <p>Fluente em português (🇧🇷) e nível intermediário em inglês (🇺🇸).</p>
