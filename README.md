@@ -12,10 +12,16 @@
 <p>Estudante de Engenharia de Computação, focado em me tornar um futuro Desenvolvedor Full Stack Developer e meu conhecimento inclui:</p>
 
 <ul>
-  <li>🐍 PYTHON (intermediário)</li>
-  <li>💻 Linguagem C</li>
-  <li>🚀 TypeScript</li>
-  <li>💎 Ruby</li>
+  <li>🚀 TypeScript <- +Utilizado</li> 
+  <li>💧 Go Lang <- Aprendendo</li>
+  <li>🐧 Linux <- Aprendendo</li>
+  <li>🐍 Python <- Intermédiario</li>
+  <li>☕️ Java <- Aprimorando</li>
+  <li>🐳 Docker <- Aprimorando</li>
+  <li>:crab: Rust <- Aprendendo</li>
+  <li>💎 Ruby <- Básico</li>
+  <li>💻 Linguagem C <- Intermédiario</li>
+  <li>💾 Assembly <- Básico</li>
 </ul>
 
 <p>Fluente em português (🇧🇷) e nível intermediário em inglês (🇺🇸).</p>
