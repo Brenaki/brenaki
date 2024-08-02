@@ -87,6 +87,3 @@
  </p>
   
 </div>
-<div>
-![An image of @brenaki's Holopin badges, which is a link to view their full Holopin profile](https://holopin.io/@brenaki)
-</div>
