@@ -87,4 +87,6 @@
  </p>
   
 </div>
-[![An image of @brenaki's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/brenaki)](https://holopin.io/@brenaki)
+<div>
+![An image of @brenaki's Holopin badges, which is a link to view their full Holopin profile](https://holopin.io/@brenaki)
+</div>
