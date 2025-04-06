@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I+am+Victor+Cerqueira;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience!;+Oi+👋,+Eu+sou+Victor+Cerqueira;+Bem-vindo+ao+meu+perfil!;+Estou+à+4+anos+aprendendo+programação;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I+am+Victor+Cerqueira;+Welcome+to+My+Profile!;Over+5+years+of+programming+experience!;+Oi+👋,+Eu+sou+Victor+Cerqueira;+Bem-vindo+ao+meu+perfil!;+Estou+na+area+à+5+anos;)](https://git.io/typing-svg)
 
 ## 👨‍💻 Engenheiro de Computação | Full Stack Developer 🚀
 
