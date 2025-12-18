@@ -3,8 +3,9 @@
 <div align="center">
 
 # 👨‍💻 Computer Engineering | Full Stack Developer 🚀
-
 </div>
+
+[![wakatime](https://wakatime.com/badge/user/fdb75ce3-7263-4128-b59f-498eaf060cb7.svg)](https://wakatime.com/@fdb75ce3-7263-4128-b59f-498eaf060cb7)
 
 ## 📖 About Me
 
