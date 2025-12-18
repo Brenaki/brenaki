@@ -190,14 +190,6 @@ Computer Engineering student with over 5 years of programming experience, focuse
 
 </div>
 
-## 👀 Profile Views
-
-<div align="center">
-
-<img src="https://profile-counter.glitch.me/brenaki/count.svg" alt="Profile views" />
-
-</div>
-
 ---
 
 <div align="center">
